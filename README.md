@@ -1,6 +1,6 @@
 # Estoque Semanal (MVP)
 
-App web para importar o **Inventário** semanal (Excel) e acompanhar posição, ranking e comparação entre semanas.
+App web para importar o **Inventário** semanal (Excel) e acompanhar posição, ranking e comparação entre semanas..
 
 ## 1) Pré-requisitos
 - Node.js 18+
