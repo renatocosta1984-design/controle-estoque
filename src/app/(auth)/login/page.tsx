@@ -1,7 +1,16 @@
 export const dynamic = 'force-dynamic';
 
-import LoginClient from './LoginClient';
-
 export default function Page() {
-  return <LoginClient />;
+  return (
+    <main style={{ padding: 24 }}>
+      <h1>Controle de Estoque</h1>
+      <p>App de estoque semanal (MVP).</p>
+      <p>
+        Acesse <a href="/login">/login</a> para entrar.
+      </p>
+      <p>
+        Depois de logar: <a href="/dashboard">/dashboard</a>
+      </p>
+    </main>
+  );
 }
